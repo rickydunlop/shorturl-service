@@ -6,10 +6,7 @@ This library allows you to shorten a URL using online services such as Google or
 Add the following to your `composer.json` file :
 
 ```
-require:
-{
     "sonrisa/shorturl-component":"dev-master"
-}
 ```
 
 ## 2. Description
