@@ -45,7 +45,6 @@ class BitlyTest extends \PHPUnit_Framework_TestCase
     {
         $this->setExpectedException('Sonrisa\Service\ShortLink\Exceptions\InvalidApiResponseException');
         $bitly = new \Sonrisa\Service\ShortLink\Bitly('fakeuser','fakepassword');
-        $bitly->shorten('http://google.com');
     }
 
     /**
