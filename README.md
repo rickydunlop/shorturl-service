@@ -8,7 +8,7 @@ This library allows you to shorten a URL using online services such as Google or
     * [3.1. Google API](#block3.1)
     * [3.2. Bit.ly API](#block3.2)
 * [4. Fully tested](#block4)
-* [5. Author link](#block5)
+* [5. Author](#block5)
 
 <a name="block1"></a>
 ## 1.Installation
