@@ -46,7 +46,7 @@ echo $url = $googl->expand($shortUrl);
 
 //Get all data, including statistics for a shortened URL
 $googl = new \Sonrisa\Service\ShortLink\Google($apiKey);
-echo $url = $googl->stats($shortUrl);
+$array = $googl->stats($shortUrl);
 ```
 <a name="block3.2"></a>
 ### 3.2. Bit.ly API
