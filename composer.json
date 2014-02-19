@@ -1,6 +1,6 @@
 {
     "name":"sonrisa/shorturl-service",
-    "description":"URL Shortener component for Sonrisa framework. Build for PHP5.3 and above.",
+    "description":"Standalone library that allows URL shortening using online services such as Google or Bit.ly. Expanding shortened URLs is also possible.",
     "type":"library",
     "homepage":"http://sonrisacms.com",
     "license":"MIT",
