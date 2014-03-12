@@ -16,7 +16,7 @@ Add the following to your `composer.json` file :
 ```js
 {
     "require": {
-        "sonrisa/shorturl-component":"dev-master"
+        "sonrisa/shorturl-service":"dev-master"
     }
 }
 ```
